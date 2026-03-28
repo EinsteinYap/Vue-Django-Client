@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install (use node version 22.14.0)
 ```
 
 ### Compiles and hot-reloads for development
