@@ -1,5 +1,6 @@
-# client
-
+# client default testing login  
+username: admin 
+password: Pa$$w0rd
 ## Project setup
 ```
 npm install (use node version 22.14.0)
